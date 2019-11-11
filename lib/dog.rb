@@ -11,6 +11,6 @@ class Dog
   end 
   
   def info 
-    "#{}".strip
+    "#{name} #{breed}".strip
   end 
 end

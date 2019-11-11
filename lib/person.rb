@@ -15,9 +15,9 @@ class Person
   end 
 end
 
-fido = Person.new 
-fido.name = ("Tom")
-fido.breed = ("fidos")
+freak = Person.new 
+freak.name = ("Tom")
+freak.breed = ("freaks")
 
-fido.name
-fido.breed
+freak.name
+freak.breed

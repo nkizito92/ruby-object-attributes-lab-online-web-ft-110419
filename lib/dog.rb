@@ -19,7 +19,7 @@ class Dog
   # end 
   
   def name 
-    "#{name} #{breed}".strip
+    @name
   end 
 end
 

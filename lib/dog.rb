@@ -18,7 +18,7 @@ class Dog
   #   @breed = breed 
   # end 
   
-  def info 
+  def name 
     "#{name} #{breed}".strip
   end 
 end

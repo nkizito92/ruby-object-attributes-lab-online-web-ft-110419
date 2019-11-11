@@ -14,3 +14,10 @@ class Person
     @job
   end 
 end
+
+fido = Person.new 
+fido.name = ("Tom")
+fido.breed = ("fidos")
+
+fido.name
+fido.breed

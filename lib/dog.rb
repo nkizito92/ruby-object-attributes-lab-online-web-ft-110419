@@ -27,4 +27,4 @@ class Dog
 end
 
 fido = Dog.new 
-fido.info = "Tom"
+fido.name = "Tom"

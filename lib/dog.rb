@@ -16,4 +16,4 @@ class Dog
 end
 
 fido = Dog.new 
-fido.initialize((:@name, "Tom"), (:breed, "fido"))
+fido.info = "Tom"

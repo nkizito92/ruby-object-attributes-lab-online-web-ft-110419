@@ -16,8 +16,8 @@ class Person
 end
 
 freak = Person.new 
-freak.name = ("Tom")
-freak.breed = ("freaks")
+freak.name = ("Frank")
+freak.breed = ("Freaks")
 
 freak.name
 freak.breed

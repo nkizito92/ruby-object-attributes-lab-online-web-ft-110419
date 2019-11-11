@@ -4,7 +4,7 @@ class Dog
     @breed = breed 
   end
   
-  def info =(dogs_info)
+  def info=(dogs_info)
     name, breed = dogs_info.split
     @name = name 
     @breed = breed 
